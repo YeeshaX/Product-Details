@@ -88,7 +88,7 @@ button{
    background-color: hsl(158, 36%, 37%);
    border-radius: 12px;
 }
-img[src="/icon-cart.svg"]{
+img[src="/Product-Details/icon-cart.svg"]{
     width: 18px;
     height: 18px;
     margin-right: 16px;
